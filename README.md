@@ -5,7 +5,7 @@ Este proyecto contiene un script para automatizar el cambio de fondo de pantalla
 ## Requisitos
 
 - Python 3.x
-- Dependencias adicionales (especificar si hay alguna)
+- No hay dependencias adicionales
 
 ## Instalación
 
